@@ -1,0 +1,1 @@
+             <h1>Registrations are closed for some time.  </h1>
